@@ -11,8 +11,8 @@ git reset XXX # 回溯到某个commit上
 
 
 # 事前预备
-git config --global user.name "Sid Zhang"
-git config --global user.email cengxiye@yeah.net
+git config --global user.name "Hulk Zhang"
+git config --global user.email hulk7000@proton.me
 git init # 初始化文件夹，观察生成的隐藏文件夹，F8运行本行代码
 # 创建一个myfile.txt文件
 git status # 这是我们超常用的命令
